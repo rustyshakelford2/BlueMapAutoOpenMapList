@@ -1,4 +1,4 @@
-#BlueMapAutoOpenMapList
+# BlueMapAutoOpenMapList
 - Automatically opens the map list in BlueMap when the page is loaded. 
 - Simulates a mouse click after loading the list in order to make it compatible with BlueMapMapIcons as it listens for OnClick.
 
